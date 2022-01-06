@@ -1,0 +1,21 @@
+{
+  "general": {
+    "name": "Alverdine General",
+    "nickname": "Thorgrim",
+    "token": "NDE2NzE1NzA5NzM4MTIzMjY0.DXIipg.0orHEfmQWP1uLwsMzOopzTeAGQ4",
+    "prefix": "::",
+    "userSyncInterval": 2000,
+    "ownerid": "",
+    "modRoleName": "Moderators",
+    "adminRoleName": "Administrators"
+  },
+  "database": {
+    "type": "MySQL",
+    "host": "206.189.4.119",
+    "port": 3306,
+    "user": "nozemi",
+    "pass": "gt1i2gh4_!",
+    "name": "exorth_custom",
+    "prefix": "t8hju48_site_"
+  }
+}
